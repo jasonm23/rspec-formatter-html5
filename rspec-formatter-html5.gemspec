@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.authors       = ["Jasonm23"]
   s.email         = ["jasonm23@gmail.com"]
   s.homepage      = "https://github.com/jasonm23/rspec-formatter-html5"
-  s.summary       = "TODO: summary"
-  s.description   = "TODO: description"
+  s.summary       = "RSpec formatter for HTML5"
+  s.description   = "Visually rich and satisfying RSpec results formatter using HTML5"
 
   s.files         = `git ls-files app lib`.split("\n")
   s.platform      = Gem::Platform::RUBY
